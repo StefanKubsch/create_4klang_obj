@@ -5,6 +5,5 @@ Visual Studio 2022
 
 Needed dependencies:
 
-https://github.com/hzdgopher/4klang
-
-https://github.com/ShiftMediaProject/VSYASM
+4klang: https://github.com/hzdgopher/4klang
+yasm: https://github.com/ShiftMediaProject/VSYASM
