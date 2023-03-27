@@ -7,3 +7,7 @@ Release/create_4.0f35e1a2.tlog/unsuccessfulbuild
 Release/create_4klang_obj.Build.CppClean.log
 Release/create_4klang_obj.log
 Release/create_4klang_obj.vcxproj.FileListAbsolute.txt
+*.vsidx
+.vs/create_4klang_obj/FileContentIndex/read.lock
+.vs/create_4klang_obj/v17/.suo
+.vs/create_4klang_obj/v17/Browse.VC.db
